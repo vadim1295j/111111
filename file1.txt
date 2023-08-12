@@ -1,0 +1,9 @@
+Project: Pobeda
+Login: 79920250050
+ID: 6133761369df562e6a06fe5f
+DigitainId: 108552
+IP: 85.249.30.115
+Reg date: 2021-09-04 16:35:15
+Partner code: показать код
+Currency: RUB
+uuuu
